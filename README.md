@@ -37,5 +37,15 @@ Search Recipe
 View Recipe 
 - Display info
 - Button to edit ---> Brings you to Edit Recipe 
+- Button to add to shopping list --> Pregenerate in Shopping List
 
 
+Pantry Inventory Manager
+- A div per category 
+- premade category for spices, refrigerated, dry/canned
+- Add category button to add a div 
+- Botton of each div with a + button that expands to input
+- Button at side of each ingredient to note used up ----> auto add to shopping list 
+
+Shopping List
+- 
